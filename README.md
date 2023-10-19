@@ -1,4 +1,4 @@
-# Newsboat RSS URL file to FreshRSS format converter
+# Newsboat RSS URL file to FreshRSS format - converter
 
 This is just a simple script written in bash due to me trying `FreshRSS` on `Docker` and wanted to import all my URLs from my already long list of URLs I was using in `Newsboat` but didn't want to copy all one by one as I would take me ages to do that.
 
@@ -62,3 +62,7 @@ Running my example Newsboat will create the following output which you can then 
       <outline text="Jeff Geerling" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg" htmlUrl="https://www.youtube.com/channel/UCR-DXc1voovS8nhAvccRZhg" description=""/>
       <outline text="Jeff Geerling - Geerling engineering" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsd6hP-zzIkCpw8XGw7Osyw" htmlUrl="" description=""/>   
 ```
+
+## Disclosure
+
+I was assisted by OpenAI while creating this script to speed up the process.
